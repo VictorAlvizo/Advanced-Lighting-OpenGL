@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Victo\Desktop\LearnOpenGL\LearnOpenGL\Mesh.h(86,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\Victo\Desktop\LearnOpenGL\LearnOpenGL\main.cpp(383,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Victo\Desktop\LearnOpenGL\LearnOpenGL\main.cpp(463,32): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  LearnOpenGL.vcxproj -> C:\Users\Victo\Desktop\LearnOpenGL\x64\Debug\LearnOpenGL.exe
